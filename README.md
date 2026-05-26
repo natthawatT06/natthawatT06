@@ -64,57 +64,6 @@ Currently exploring:
 
 ---
 
-## Featured Projects
-
-### KHAO D: Smart Knee Brace for Rehabilitation
-
-Smart knee brace system for physical rehabilitation and movement tracking.
-
-- Designed around custom PCB hardware with an nRF52840 microcontroller and IMU sensors
-- Integrated AI pose estimation for mobility analysis
-- Focused on rehabilitation support and precise motion tracking
-
-### SME Copilot: AI-Powered Growth Assistant for Thai SMEs
-
-Multi-agent AI assistant built to support small online sellers in Thailand.
-
-- Used Azure AI Foundry, Azure Cosmos DB, and OpenAI
-- Designed agents for trend detection, sales analysis, business recommendations, and content generation
-- Focused on helping SMEs reduce manual management and grow faster
-
-### Obstacle Warning Device for the Visually Impaired
-
-AI-based obstacle detection device for mobility support.
-
-- Built with Jetson Nano and YOLOv4-tiny
-- Focused on real-time object detection for visually impaired users
-- Combined embedded systems with computer vision
-
-### Rice Plant 3D Application
-
-3D rice plant visualization app for agricultural education and analysis.
-
-- Created with Unity and Blender
-- Published for mobile users through Play Store and App Store
-- Designed to make agricultural learning more interactive
-
----
-
-## Achievements
-
-- Honorable Mention, Microsoft AI Engineering Skills and Hackathon for Employment regional, Startup Thailand League 2026
-- Special Award, LOTUSDIS Distant Meeting Transcription Challenge, AI Thailand Benchmark 2026
-- 2nd Place Winner, CU Startup Thailand League 2026
-- 1st Place Winner, HACK HUG RAK LOK Hackathon, Chulalongkorn University 2026
-- Silver Medal, Data Science Project Contest 2024
-- Finalist, National Software Contest 26th 2024
-- Finalist, National Software Contest 25th 2023
-- Honorable Mention, Thailand Cyber Top Talent 2024
-- Special Award, E-SAN Hack Season 2
-- Finalist, Young iOS Developer Hackathon
-
----
-
 ## Education
 
 **Chulalongkorn University**  
@@ -125,17 +74,6 @@ Bachelor of Science, Computer Science
 Science, Mathematics, Technology, and Environment Program  
 2022 - 2024
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Natthawat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natthawatT06&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natthawatT06&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
