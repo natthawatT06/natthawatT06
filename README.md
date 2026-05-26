@@ -4,11 +4,14 @@
 
 ### Computer Science Student | AI Engineer in Progress | AI x IoT Builder
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+solutions;Exploring+IoT+and+embedded+systems;Turning+ideas+into+real-world+projects)
+
 I enjoy building practical technology with a mix of AI, embedded systems, mobile apps, and real-world problem solving.
 
 [![Email](https://img.shields.io/badge/Email-natthawatthuisuwan%40gmail.com-2f80ed?style=flat-square&logo=gmail&logoColor=white)](mailto:natthawatthuisuwan@gmail.com)
 [![Focus](https://img.shields.io/badge/Focus-AI%20%2B%20IoT-7c3aed?style=flat-square)](#)
 [![Based in](https://img.shields.io/badge/Based%20in-Thailand-10b981?style=flat-square)](#)
+[![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-f97316?style=flat-square)](#)
 
 </div>
 
@@ -20,13 +23,22 @@ I'm a Computer Science student at Chulalongkorn University with a strong interes
 
 I like turning ideas into working products, especially projects that combine software, hardware, and AI to solve real problems. My long-term goal is to become an AI Engineer who builds intelligent devices and meaningful AI-powered systems.
 
-Currently exploring:
+```txt
+Currently learning      AI, computer vision, IoT, embedded systems
+Favorite project style  Useful, hands-on, real-world impact
+Working mindset         Curious, adaptable, team-oriented
+Long-term direction     AI Engineer building AI x IoT solutions
+```
 
-- AI and machine learning for real-world applications
-- Computer vision with OpenCV and YOLO
-- Embedded systems and IoT devices
-- Mobile app development with Flutter and SwiftUI
-- Multi-agent AI systems and cloud-based AI tools
+---
+
+## What I Like Building
+
+- AI systems that help people work smarter
+- Computer vision projects with real-world use cases
+- Smart devices that connect sensors, hardware, and software
+- Mobile apps that make technical ideas easier to use
+- Prototypes for hackathons, competitions, and research-style projects
 
 ---
 
@@ -64,6 +76,29 @@ Currently exploring:
 
 ---
 
+## Featured Projects
+
+| Project | What it does | Tech / Focus |
+| --- | --- | --- |
+| **KHAO D** | Smart knee brace for rehabilitation and movement tracking | PCB, nRF52840, IMU, AI pose estimation |
+| **SME Copilot** | Multi-agent AI assistant for Thai online sellers | Azure AI Foundry, Cosmos DB, OpenAI |
+| **Obstacle Warning Device** | AI obstacle detection device for visually impaired users | Jetson Nano, YOLOv4-tiny, computer vision |
+| **Rice Plant 3D App** | 3D rice plant visualization for agricultural education | Unity, Blender, mobile app |
+
+---
+
+## Highlights
+
+- Honorable Mention, Microsoft AI Engineering Skills and Hackathon for Employment regional, Startup Thailand League 2026
+- Special Award, LOTUSDIS Distant Meeting Transcription Challenge, AI Thailand Benchmark 2026
+- 2nd Place Winner, CU Startup Thailand League 2026
+- 1st Place Winner, HACK HUG RAK LOK Hackathon, Chulalongkorn University 2026
+- Silver Medal, Data Science Project Contest 2024
+- Finalist, National Software Contest 26th 2024
+- Honorable Mention, Thailand Cyber Top Talent 2024
+
+---
+
 ## Education
 
 **Chulalongkorn University**  
@@ -74,11 +109,24 @@ Bachelor of Science, Computer Science
 Science, Mathematics, Technology, and Environment Program  
 2022 - 2024
 
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Natthawat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natthawatT06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natthawatT06&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 <div align="center">
 
-Thanks for visiting my profile. Let's build useful things with AI, hardware, and a little bit of curiosity.
+### Let's build useful things with AI, hardware, and curiosity.
+
+Thanks for visiting my profile.
 
 </div>
